@@ -18,12 +18,12 @@ avatar: https://pbs.twimg.com/profile_images/590503438208798720/ZLvNWw9X_400x400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:paul.larionov@gmail.com
+  email: paul.larionov@gmail.com
   facebook:
   flickr:
   github: 
   instagram:
-  linkedin:https://ru.linkedin.com/in/paullarionov
+  linkedin: https://ru.linkedin.com/in/paullarionov
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: paullarionov
