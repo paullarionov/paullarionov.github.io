@@ -77,3 +77,4 @@ exclude:
     - CNAME
     - docs
     - files
+    - docs/email-marketing-adp.html
